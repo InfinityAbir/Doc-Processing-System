@@ -1,0 +1,6 @@
+@ProcessingService_HostAddress = http://localhost:5225
+
+GET {{ProcessingService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

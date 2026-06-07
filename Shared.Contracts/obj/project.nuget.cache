@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/S84EaLXE0g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Temp\\Project\\DocProcessingSystem\\Shared.Contracts\\Shared.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.16\\microsoft.aspnetcore.openapi.9.0.16.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

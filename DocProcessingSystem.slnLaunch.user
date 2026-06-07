@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ProcessingService\\ProcessingService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DocProcessingSystem\\DocProcessingSystem.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AuditService\\AuditService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DocumentService\\DocumentService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

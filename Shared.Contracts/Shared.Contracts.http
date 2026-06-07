@@ -1,0 +1,6 @@
+@Shared.Contracts_HostAddress = http://localhost:5033
+
+GET {{Shared.Contracts_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
