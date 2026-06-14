@@ -85,8 +85,3 @@ Frontend → DocumentService → ProcessingService → Kafka → AuditService
 5. Token & cost analysis is calculated
 6. Kafka sends event to AuditService
 7. Final result is returned to user
-
----
-
-## 🧪 Example Output
-
